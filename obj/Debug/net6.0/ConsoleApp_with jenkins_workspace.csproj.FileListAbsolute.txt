@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\bin\Debug\net6.0\ConsoleApp_with jenkins_workspace.exe
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\bin\Debug\net6.0\ConsoleApp_with jenkins_workspace.deps.json
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\bin\Debug\net6.0\ConsoleApp_with jenkins_workspace.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\bin\Debug\net6.0\ConsoleApp_with jenkins_workspace.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\bin\Debug\net6.0\ConsoleApp_with jenkins_workspace.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\refint\ConsoleApp_with jenkins_workspace.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ConsoleApp_with jenkins_workspace.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp_with jenkins_workspace\ConsoleApp_with jenkins_workspace\obj\Debug\net6.0\ref\ConsoleApp_with jenkins_workspace.dll
